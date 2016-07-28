@@ -1,5 +1,6 @@
 package jp.techacademy.nonomurar.y.javalog;
 //Githubへのｺﾐｯﾄとﾌﾟｯｼｭの練習
+//うまくできるかな
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
